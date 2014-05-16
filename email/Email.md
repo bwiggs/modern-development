@@ -10,6 +10,8 @@
 
 ## Email Sending Services (API)
 
+* [Mandrill](http://www.mandrill.com)
+ * Mailchimp transactional mail service
 * [Sendgrid](http://sendgrid.com/)
 * [AWS SES](http://aws.amazon.com/ses/)
  * Amazon's "simple email service" which is competitively priced and has a great api to work with
